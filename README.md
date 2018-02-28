@@ -1,2 +1,0 @@
-# Jacq-bot
-Fun time
